@@ -1,0 +1,1 @@
+native2ascii -encoding UTF-8 setting_res.txt setting.properties
